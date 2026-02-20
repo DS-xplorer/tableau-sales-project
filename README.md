@@ -46,17 +46,26 @@ Purchase frequency and behavior
 
 Purpose: To understand customer purchasing trends, loyalty, and retention drivers.
 
-🛠 Tools & Technologies
-Tool	Description
-Tableau Desktop	Data visualization and dashboard creation
-Excel / Power Query	Data cleaning and preparation
-Tableau Story (optional)	Narrative view of insights
+  🛠 Tools & Technologies
+
+✔Tool	Description
+
+✔Tableau Desktop	Data visualization and dashboard creation
+
+✔Excel / Power Query	Data cleaning and preparation
+
+✔Tableau Story (optional)	Narrative view of insights
+
 🎯 Key Features
 
 ✔ Clear visualization of Sales trends
+
 ✔ Customer segmentation & growth patterns
+
 ✔ Interactive filters (Date, Region, Product, Segment)
+
 ✔ Drill-down capabilities for deeper insights
+
 ✔ Dynamic KPI tiles for fast assessment
 
 📈 What You Could Learn From This Project
