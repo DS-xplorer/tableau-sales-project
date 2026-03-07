@@ -1,101 +1,86 @@
-📊 Tableau Sales & Customer Dashboard Project
-📌 Project Overview
+# Tableau Sales & Customer Dashboard
 
-This project consists of two interactive dashboards created in Tableau to analyze Sales performance and Customer behavior using a real business dataset. The dashboards offer deep insights into revenue trends, customer segmentation, product performance, and key business KPIs.
+## Project Overview
+This project consists of two interactive dashboards created in Tableau to analyze sales performance and customer behavior using a business dataset. The dashboards provide insights into revenue trends, customer segmentation, product performance, and key business KPIs.
 
-This work is based on the Tableau Sales Project Requirements from Data With Baraa.
+The project demonstrates how data visualization can be used to transform raw data into meaningful insights that support business decision-making.
 
-🗃 Dataset Description
+## Dataset Description
+The dataset used in this project contains business transaction data including orders, customers, products, and regional information.
 
-Dataset Source: Based on the dataset in the project requirement
+**Dataset Information**
+- Source: Based on Tableau Sales Project Requirements  
+- Data Includes: Orders, Sales, Profit, Customers, Products, Dates, and Regions  
+- Format: Excel / CSV  
+- Use Case: Analyze sales trends, customer distribution, and revenue drivers  
 
-Data Included: Orders, Sales, Profit, Customers, Products, Dates, Regions
+## Dashboards Included
 
-Format: Excel / CSV
+### Sales Dashboard
+The Sales Dashboard focuses on analyzing overall business performance.
 
-Use Case: Understand sales trends, customer distribution, and revenue drivers
+Key features include:
 
-📊 Dashboards Included
-1. Sales Dashboard
+- Total revenue, profit, and number of orders  
+- Monthly and yearly sales trends  
+- Top-selling products and categories  
+- Regional sales comparison  
+- Profit analysis by segment  
 
-The Sales Dashboard highlights:
+**Purpose:**  
+To monitor sales performance, identify growth trends, and evaluate product-level performance.
 
-Total Revenue, Profit, and Orders
+### Customer Dashboard
+The Customer Dashboard focuses on understanding customer behavior and segmentation.
 
-Time series view of Sales Trends by Month/Year
+Key features include:
 
-Top Selling Products & Categories
+- New vs returning customers  
+- Customer segmentation (high-value vs low-value customers)  
+- Geographic distribution of customers  
+- Purchase frequency and buying behavior  
 
-Regional Sales comparison
+**Purpose:**  
+To analyze customer loyalty, purchasing patterns, and retention drivers.
 
-Profitability breakdown by segment
+## Tools and Technologies
 
-Purpose: To monitor overall business performance, growth trends, and product-level insights.
+- Tableau Desktop – Dashboard creation and visualization  
+- Excel / Power Query – Data cleaning and preparation  
+- Tableau Story – Optional narrative view of insights  
 
-2. Customer Dashboard
+## Key Features
 
-The Customer Dashboard focuses on:
+- Interactive sales trend visualizations  
+- Customer segmentation analysis  
+- Dynamic KPI indicators  
+- Interactive filters (date, region, product, segment)  
+- Drill-down functionality for deeper insights  
 
-New vs Returning Customer count
+## Insights from the Project
 
-Customer Segmentation (e.g., High Value vs Low Value)
+This project demonstrates how businesses can:
 
-Geographical distribution of customers
+- Monitor sales performance using interactive dashboards  
+- Understand customer purchasing patterns  
+- Identify top-performing products and regions  
+- Track revenue growth and profitability trends  
 
-Purchase frequency and behavior
+## How to Use the Project
 
-Purpose: To understand customer purchasing trends, loyalty, and retention drivers.
+1. Download the Tableau workbook file (`.twbx`).  
+2. Open the file using Tableau Desktop.  
+3. Interact with the dashboards using filters to explore sales and customer insights.  
 
-  🛠 Tools & Technologies
+## Skills Demonstrated
 
-✔Tool	Description
+- Data Visualization  
+- Dashboard Design  
+- Business Analytics  
+- Sales Performance Analysis  
+- Customer Segmentation  
 
-✔Tableau Desktop	Data visualization and dashboard creation
+## Conclusion
+This project highlights the use of Tableau to build interactive dashboards that help businesses analyze sales data and customer behavior effectively.
 
-✔Excel / Power Query	Data cleaning and preparation
-
-✔Tableau Story (optional)	Narrative view of insights
-
-🎯 Key Features
-
-✔ Clear visualization of Sales trends
-
-✔ Customer segmentation & growth patterns
-
-✔ Interactive filters (Date, Region, Product, Segment)
-
-✔ Drill-down capabilities for deeper insights
-
-✔ Dynamic KPI tiles for fast assessment
-
-📈 What You Could Learn From This Project
-
-This project demonstrates:
-
-How to transform raw data into actionable business insights
-
-Creating interactive dashboards that are intuitive to business users
-
-Effective use of filters, parameters, and interactivity
-
-Storytelling with data to support decisions
-
-📥 How to Use This Repo
-
-Download the project files (.twbx or Tableau Workbook)
-
-Open them in Tableau Desktop
-
-Interact with the dashboards by using filters to analyze trends
-
-I am a Data Analytics professional proficient in:
-
-Tableau
-
-Excel
-
-Data Visualization
-
-Business Analytics
-
-This project reflects practical business analysis and dashboard development skills.
+By visualizing key metrics and trends, organizations can make better data-driven decisions and improve overall business performance.
